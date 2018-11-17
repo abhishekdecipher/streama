@@ -26,7 +26,8 @@ angular.module('streama.translations').config(function ($translateProvider) {
 			LOOKING_AT_GENRE: 'Estás viendo el género:',
 			MARK_COMPLETED: 'Marca Completada',
 			NO_TVSHOWS_FOUND: 'No hay Shows de TV Disponibles',
-			NO_MOVIES_FOUND: 'No hay Películas Disponibles'
+			NO_MOVIES_FOUND: 'No hay Películas Disponibles',
+      VIDEOS: 'Videos'
 		},
 		VIDEO: {
 			RELEASED: 'Publicado',
